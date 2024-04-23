@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Members & Groups
+description: Research groups in Japan and UK
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

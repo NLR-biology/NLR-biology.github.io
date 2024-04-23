@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Events & Activities
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: ''
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -75,9 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>研究の概要</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>病害防除は、世界の食糧安全にとって最重要課題である。最も有効な手段は、Nucleotide-binding Leucine-rich repeat Receptors (NLRs) 遺伝子の利用である。本提案では、重要作物イネ、コムギ、ウリ科作物とそれらの病害を実験対象として、(1) NLRペアーとネットワークの探索、(2) NLR活性化機構の解明、(3) NLRの認識機構の解明、(4)NLR生物学の応用の研究を展開する。本研究は、日本計8名、英国計６名の先端研究者からなる共同研究体制により実施し、若手研究者を育成し、当重要分野の次世代の発展に寄与することを目的とする。</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
