@@ -3,8 +3,8 @@ title: NLR Biology
 subtitle: 国際先導研究
 email: toshi6661024@gmail.com
 description: Fund for the Promotion of Joint International Research.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://nlr-biology.github.io/ # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: https://nlr-biology.github.io/docs # the base hostname & protocol for your site
 author: Toshiyuki Sakai
 street_address: Kyoto University
 city: Nashville
