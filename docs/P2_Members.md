@@ -2,7 +2,7 @@
 layout: post
 title: Members & Groups
 description: Research groups in Japan and UK
-image: assets/images/pic11.jpg
+image: assets/images/pic_meeting.jpg
 nav-menu: true
 ---
 

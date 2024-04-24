@@ -12,12 +12,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>General</h1>
+			<h1>国際先導研究 NLR生物学の基礎的理解による作物耐病性増強</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">本研究課題について</h2>
+<p>病害防除は、世界の食糧安全にとって最重要課題である。最も有効な手段は、Nucleotide-binding Leucine-rich repeat Receptors (NLRs) 遺伝子の利用である。本提案では、重要作物イネ、コムギ、ウリ科作物とそれらの病害を実験対象として、(1) NLRペアーとネットワークの探索、(2) NLR活性化機構の解明、(3) NLRの認識機構の解明、(4)NLR生物学の応用の研究を展開する。本研究は、日本計８名、英国計６名の先端研究者からなる共同研究体制により実施し、若手研究者を育成し、当重要分野の次世代の発展に寄与することを目的とする。</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
