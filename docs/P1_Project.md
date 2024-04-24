@@ -1,7 +1,8 @@
 ---
 layout: page
-title: General
-image: assets/images/pic01.jpg
+title: Project
+description: 本プロジェクトについて
+image: assets/images/pic_project.jpg
 nav-menu: true
 ---
 
@@ -23,9 +24,9 @@ nav-menu: true
 (1) NLR遺伝子の探索、(2) NLR活性化機構の解明、(3) NLRによる病原菌因子認識機構の解明、(4) NLR生物学の応用による作物抵抗性付与の4課題に取り組み、本重要学術分野を牽引する若手研究者の人材育成を進める。</p>
 
 <div class="row">
-	<div class="2u"><br></div>
-	<div class="8u"><span class="image fit"><img src="{% link assets/images/pic_intro.jpg %}" alt="" /></span></div>
-	<div class="2u$"><br></div>
+	<div class="1u"><br></div>
+	<div class="10u"><span class="image fit"><img src="{% link assets/images/pic_intro.jpg %}" alt="" /></span></div>
+	<div class="1u$"><br></div>
 </div>
 
 <h2 id="content">人材育成計画の内容</h2>
