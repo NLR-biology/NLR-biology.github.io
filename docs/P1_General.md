@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>国際先導研究 NLR生物学の基礎的理解による作物耐病性増強</h1>
+			<h2>国際先導研究 NLR生物学の基礎的理解による作物耐病性増強</h2>
 		</header>
 
 <!-- Content -->
