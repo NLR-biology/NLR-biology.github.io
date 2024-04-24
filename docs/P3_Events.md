@@ -2,7 +2,7 @@
 title: Events & Activities
 layout: landing
 description: シンポジウム等のイベント予定や活動報告
-image: assets/images/pic07.jpg
+image: assets/images/pic_event.jpg
 nav-menu: true
 ---
 
