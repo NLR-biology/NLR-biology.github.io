@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-image: assets/images/pic_publication.jpg
+image: assets/images/pic_publication.jpeg
 nav-menu: true
 ---
 
