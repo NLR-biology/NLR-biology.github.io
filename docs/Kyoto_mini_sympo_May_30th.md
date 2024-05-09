@@ -24,6 +24,7 @@ show_tile: false
 
 <section id="two">
     <div class="inner">
+        <h4>Program</h4>
         <span class="image fit"><img src="{% link assets/images/Kyoto_sympo_poster.jpg %}" alt="" /></span>
 	</div>
 </section>
