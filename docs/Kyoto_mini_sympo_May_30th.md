@@ -13,9 +13,7 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>参加希望者は下記Google Formから登録お願いいたします!</h2>
-		</header>
-		<a href="https://forms.gle/sA7mkHq1QgH9Xibb9">参加登録フォームはこちらから。</a>
+        <h2>参加希望者は下記Google Formから登録お願いいたします!</h2>
+		<a href="https://forms.gle/sA7mkHq1QgH9Xibb9"><h3>参加登録フォームはこちらから。</h3></a>
 	</div>
 </section>
