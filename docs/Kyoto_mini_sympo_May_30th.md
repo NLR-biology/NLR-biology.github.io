@@ -15,11 +15,11 @@ show_tile: false
 	<div class="inner">
         <header class="major">
 			<h2>Kyoto mini-symposium on plant-microbe interactions</h2>
-            <h3>5月30日(木)9:30~、京都大学 益川ホール</h3>
 		</header>
         <h3>参加希望者は下記Google Formから登録お願いいたします!</h3>
 		<a href="https://forms.gle/sA7mkHq1QgH9Xibb9">参加登録フォームはこちらから。</a>
-        <br>
+    <div>
+    <div class="inner">
         <span class="image fit"><img src="{% link assets/images/Kyoto_sympo_poster.jpg %}" alt="" /></span>
 	</div>
 </section>
