@@ -16,7 +16,7 @@ show_tile: false
         <header class="major">
 			<h2>Kyoto mini-symposium on plant-microbe interactions</h2>
 		</header>
-        <h3>参加希望者は下記Google Formから登録お願いいたします!</h3>
+        <h4>参加希望者は下記Google Formから登録お願いいたします!</h4>
 		<a href="https://forms.gle/sA7mkHq1QgH9Xibb9">参加登録フォームはこちらから。</a>
     <div>
     <div class="inner">
