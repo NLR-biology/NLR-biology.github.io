@@ -7,5 +7,15 @@ image: assets/images/Kyoto_sympo.jpg
 show_tile: false
 ---
 
-<h2>参加希望者は下記Google Formから登録お願いいたします!</h2>
-<a href="https://forms.gle/sA7mkHq1QgH9Xibb9">参加登録フォームはこちらから。</a>
+<!-- Main -->
+<div id="main">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>参加希望者は下記Google Formから登録お願いいたします!</h2>
+		</header>
+		<a href="https://forms.gle/sA7mkHq1QgH9Xibb9">参加登録フォームはこちらから。</a>
+	</div>
+</section>
