@@ -9,6 +9,8 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
+<a href="https://nlr-biology.github.io/Kyoto_mini_sympo_May_30th" class="button next">2024/05/30 シンポジウム開催！</a></li>
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
