@@ -15,6 +15,7 @@ show_tile: false
 	<div class="inner">
         <h3>参加希望者は下記Google Formから登録お願いいたします!</h3>
 		<a href="https://forms.gle/sA7mkHq1QgH9Xibb9">参加登録フォームはこちらから。</a>
+        <br>
+        <span class="image fit"><img src="{% link assets/images/Kyoto_sympo_poster.jpg %}" alt="" /></span>
 	</div>
-    <span class="image fit"><img src="{% link assets/images/Kyoto_sympo_poster.jpg %}" alt="" /></span>
 </section>
