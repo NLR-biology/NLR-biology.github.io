@@ -16,8 +16,7 @@ nav-menu: true
 			<h2>Events & Activities</h2>
 		</header>
 		<ol>
-			<li><a href="https://nlr-biology.github.io/Kyoto_mini_sympo_May_30th">Kyoto mini-symposium on plant-microbe interactions</a></li>
-			<li>2024年5月30日(木) 京都大学 益川ホール</li>
+			<li><a href="https://nlr-biology.github.io/Kyoto_mini_sympo_May_30th">Kyoto mini-symposium on plant-microbe interactions</a><br>2024年5月30日(木) 京都大学 益川ホール</li>
 		</ol>
 
 	</div>
