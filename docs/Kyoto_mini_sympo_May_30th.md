@@ -16,7 +16,7 @@ show_tile: false
         <header class="major">
 			<h2>Kyoto mini-symposium on plant-microbe interactions</h2>
 		</header>
-        <p>国際先導研究プロジェクトの一環として、The Sainsbury laboratory, John Innes Centre, Imperial College London, University of Canbridge, 京都大学の植物病理学分野の研究者らの講演会を開催します。是非ご参加ください！</p>
+        <p>国際先導研究プロジェクトの一環として、The Sainsbury laboratory, John Innes Centre, Imperial College London, University of Cambridge, 京都大学の植物病理学分野の研究者らの講演会を開催します。是非ご参加ください！</p>
         <!-- <h4>参加希望者は下記Google Formから登録お願いいたします!</h4>
 		<a href="https://forms.gle/sA7mkHq1QgH9Xibb9">参加登録フォームはこちらから。</a> -->
         <h4>Program</h4>
