@@ -15,7 +15,9 @@ nav-menu: true
 <!-- Content -->
 <h2>Papers(Example)</h2>
 <ol>
-	<li>Adachi, H., Sakai, T., Kourelis, J., Pai, H., Gonzalez Hernandez, J. L., Utsumi, Y., Seki, M., Maqbool, A., & Kamoun, S. (2023). <a href="https://doi.org/10.1093/plcell/koad175">Jurassic NLR: Conserved and dynamic evolutionary features of the atypically ancient immune receptor ZAR1.</a> The Plant cell, 35(10), 3662–3685.</li>
+	<li></li>
+	<li>Oikawa, K., Fujisaki, K., Shimizu, M., Takeda, T., Nemoto, K., Saitoh, H., Hirabuchi, A., Hiraka, Y., Bialas, A., Langner, T., Kellner, R., Bozkurt, T.O., Cesari, S., Kroj, T., Banfield, M.J., Kamoun, S., and Terauchi, R. 2024. <a href="https://doi.org/10.1101/2020.12.01.406389">The blast pathogen effector AVR-Pik binds and stabilizes rice heavy metal-associated (HMA) proteins to co-opt their function in immunity.</a> bioRxiv</li>
+	<li>Zdrzalek, R., Xi, Y., Langner, T., Bentham, A.R., De la Concepcion, J.C., Harant, A., Shimizu, M., Were, V., Talbot, N.J., Terauchi, R., Kamoun, S., and Banfield, M.J. 2024. <a href="https://doi.org/10.1101/2024.01.20.576400">Bioengineering a plant NLR immune receptor with a robust binding interface towards a conserved fungal pathogen effector.</a> bioRxiv</li>
 </ol>
 <h2>Conference</h2>
 <ol>
