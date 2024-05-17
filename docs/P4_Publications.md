@@ -13,7 +13,7 @@ nav-menu: true
 	<div class="inner">
 
 <!-- Content -->
-<h2>Papers(Example)</h2>
+<h2>Papers</h2>
 <ol>
 	<li>Chia, K.S., Kourelis, J., Teulet, A., Vickers, M., Sakai, T., Walker, J.F., Schornack, S., Kamoun, S., and Carella, P. 2024. <a href="https://doi.org/10.1093/plcell/koae113">The N-terminal domains of NLR immune receptors exhibit structural and functional similarities across divergent plant lineages.</a> Plant Cell, 10:koae113.</li>
 	<li>Oikawa, K., Fujisaki, K., Shimizu, M., Takeda, T., Nemoto, K., Saitoh, H., Hirabuchi, A., Hiraka, Y., Bialas, A., Langner, T., Kellner, R., Bozkurt, T.O., Cesari, S., Kroj, T., Banfield, M.J., Kamoun, S., and Terauchi, R. 2024. <a href="https://doi.org/10.1101/2020.12.01.406389">The blast pathogen effector AVR-Pik binds and stabilizes rice heavy metal-associated (HMA) proteins to co-opt their function in immunity.</a> bioRxiv</li>
