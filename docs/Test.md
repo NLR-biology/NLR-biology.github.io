@@ -3,7 +3,7 @@ layout: page
 title: Project
 description: 本プロジェクトについて
 image: assets/images/pic_project.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
