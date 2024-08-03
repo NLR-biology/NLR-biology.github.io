@@ -21,20 +21,20 @@ show_tile: false
         <p>また、シンポジウム開催週にはイギリス側のPI、日本側のPI、プロジェクト参画予定の学生や博士研究員らの研究発表会・懇親会を行い、議論を深めました。</p>
 
         <div class="row 75% uniform">
-            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/1.HEIC %}" alt="" /></span></div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/2.HEIC %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/1.jpg %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/2.jpg %}" alt="" /></span></div>
             <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/3.jpg %}" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/4.HEIC %}" alt="" /></span></div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/5.HEIC %}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/6.HEIC %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/4.jpg %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/5.jpg %}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/6.jpg %}" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/7.HEIC %}" alt="" /></span></div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/8.HEIC %}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/9.HEIC %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/7.jpg %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/8.jpg %}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/9.jpg %}" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/10.HEIC %}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/11.HEIC %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/10.jpg %}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/11.jpg %}" alt="" /></span></div>
         </div>
 
         <h4>Program</h4>
