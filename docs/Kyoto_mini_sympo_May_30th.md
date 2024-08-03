@@ -14,11 +14,29 @@ show_tile: false
 <section id="one">
 	<div class="inner">
         <header class="major">
-			<h2>Kyoto mini-symposium on plant-microbe interactions</h2>
+			<h2>Kyoto mini-symposium on plant-microbe interactions (2024/5/30)</h2>
 		</header>
-        <p>国際先導研究プロジェクトの一環として、The Sainsbury laboratory, John Innes Centre, Imperial College London, University of Cambridge, 神戸大学、京都大学の植物病理学分野の研究者らの講演会を開催します。是非ご参加ください！</p>
-        <!-- <h4>参加希望者は下記Google Formから登録お願いいたします!</h4>
-		<a href="https://forms.gle/sA7mkHq1QgH9Xibb9">参加登録フォームはこちらから。</a> -->
+        <p>国際先導研究プロジェクトの一環として、The Sainsbury laboratory, John Innes Centre, Imperial College London, University of Cambridge, 神戸大学、京都大学の植物病理学分野の研究者らの講演会を開催しました。</p>
+        <br>
+        <p>また、シンポジウム開催週にはイギリス側のPI、日本側のPI、プロジェクト参画予定の学生や博士研究員らの研究発表会・懇親会を行い、議論を深めました。</p>
+
+        <div class="row 75% uniform">
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/1.HEIC %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/2.HEIC %}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/3.jpg %}" alt="" /></span></div>
+            <!-- Break -->
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/4.HEIC %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/5.HEIC %}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/6.HEIC %}" alt="" /></span></div>
+            <!-- Break -->
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/7.HEIC %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/8.HEIC %}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/9.HEIC %}" alt="" /></span></div>
+            <!-- Break -->
+            <div class="4u"><span class="image fit"><img src="{% link assets/images/symposium_2024/10.HEIC %}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{% link assets/images/symposium_2024/11.HEIC %}" alt="" /></span></div>
+        </div>
+
         <h4>Program</h4>
         <span class="image fit"><img src="{% link assets/images/Kyoto_sympo_poster.jpg %}" alt="" /></span>
 	</div>
