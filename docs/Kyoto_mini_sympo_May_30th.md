@@ -17,7 +17,6 @@ show_tile: false
 			<h2>Kyoto mini-symposium on plant-microbe interactions (2024/5/30)</h2>
 		</header>
         <p>国際先導研究プロジェクトの一環として、The Sainsbury laboratory, John Innes Centre, Imperial College London, University of Cambridge, 神戸大学、京都大学の植物病理学分野の研究者らの講演会を開催しました。</p>
-        <br>
         <p>また、シンポジウム開催週にはイギリス側のPI、日本側のPI、プロジェクト参画予定の学生や博士研究員らの研究発表会・懇親会を行い、議論を深めました。</p>
 
         <div class="row 75% uniform">
