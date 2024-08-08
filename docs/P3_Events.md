@@ -12,7 +12,7 @@ nav-menu: true
 <!-- New -->
 <section id="one">
 	<div class="inner">
-		<a href="https://nlr-biology.github.io/Japan_workshop_2024" class="button next">2024/11/27-29 国内ワークショップ開催！</a>
+		<!-- <a href="https://nlr-biology.github.io/Japan_workshop_2024" class="button next">2024/11/27-29 国内ワークショップ開催！</a> -->
 	</div>
 </section>
 
