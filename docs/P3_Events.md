@@ -23,7 +23,8 @@ nav-menu: true
 			<h2>New Events & Activities</h2>
 		</header>
 		<ol>
-			<li><a href="https://nlr-biology.github.io/Japan_workshop_2024">国内ワークショップ(学生向け)</a><br>2024年11月27-29日 岩手生物工学研究所</li>
+			<li>国内ワークショップ(学生向け)<br>2024年11月27-29日 岩手生物工学研究所</li>
+			<!-- <li><a href="https://nlr-biology.github.io/Japan_workshop_2024">国内ワークショップ(学生向け)</a><br>2024年11月27-29日 岩手生物工学研究所</li> -->
 		</ol>
 		<header class="major">
 			<h2>Past Events & Activities</h2>
