@@ -21,12 +21,10 @@ show_tile: false
 		<h3 id="content">・ワークショップ概要</h3>
 		<p>Nanoporeシーケンサーを用いたゲノム解読実習・AlphaFold3を用いた構造解析実習・Alpha screenによるタンパク質間相互作用実習を3日間に渡って行う予定です。<br>
 		また、期間中に本国際先導研究プロジェクトに参画している日本側のPIとの交流会等も行う予定です。<br>
-		交通費・滞在費は支援しますので、興味がある学生は是非応募してください。詳細な日程等は下記ポスターを御確認ください</p>
+		交通費・滞在費は支援しますので、興味がある学生は是非応募してください。詳細な日程等は下記ポスターを御確認ください。</p>
 		<h3 id="content">・申請について</h3>
 		<p>参加希望者は、<a href="https://forms.gle/PJ2se4GArkHimywW6">こちらの応募フォーム</a>より、申請してください。<br>
 		応募動機・研究内容の書類審査を経て10名程度選抜する予定です。</p>
-		<br>
-
 		<h3 id="content">・告知ポスター</h3>
 		<span class="image fit"><img src="{% link assets/images/workshop_2024.jpg %}" alt="" /></span>
 	</div>
