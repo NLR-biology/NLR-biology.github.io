@@ -15,17 +15,18 @@ show_tile: false
 	<div class="inner">
 		<header class="major">
 			<h2>国内ワークショップ開催　2024/11/27~29 岩手生物工学研究センターにて</h2>
+			<h3>~学生のための耐病性バイオインフォマティクス~</h3>
+			<h3>ゲノム解析からタンパク質構造予測まで</h3>
 		</header>
 		<!-- Content -->
 		<h2 id="content">ワークショップ概要</h2>
-		<p>近日公開予定</p>
+		<p>主にNanoporeシーケンサーを用いたゲノム解読実習・AlphaFold3を用いた構造解析実習・タンパク質間相互作用実習を3日間に渡って行う予定です。</p>
+		<p>また、期間中に本国際先導研究プロジェクトに参画している日本側のPIとの交流会等も行う予定です。</p>
+		<p>交通費・滞在費は支援しますので、興味がある学生は是非応募してください。</p>
 		<h2 id="content">申請について</h2>
-		<p>近日公開予定</p>
-		<!-- <div class="row">
-			<div class="1u"><p></p></div>
-			<div class="10u"><span class="image fit"><img src="{% link assets/images/pic_intro.jpg %}" alt="" /></span></div>
-			<div class="1u$"><p></p></div>
-		</div> -->
+		<p>参加希望者は、<a href="https://forms.gle/PJ2se4GArkHimywW6">こちらの応募フォーム</a>より、申請してください。</p>
+		<p>応募動機・研究内容の書類審査を経て10名程度選抜する予定です。</P>
+		<span class="image fit"><img src="{% link assets/images/workshop_2024.jpg %}" alt="" /></span>
 	</div>
 </section>
 </div>
