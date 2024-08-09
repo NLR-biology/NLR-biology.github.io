@@ -12,7 +12,7 @@ nav-menu: true
 <!-- New -->
 <section id="one">
 	<div class="inner">
-		<!-- <a href="https://nlr-biology.github.io/Japan_workshop_2024" class="button next">2024/11/27-29 国内ワークショップ開催！</a> -->
+		<a href="https://nlr-biology.github.io/Japan_workshop_2024" class="button next">2024/11/27-29 国内ワークショップ開催！</a>
 	</div>
 </section>
 
@@ -23,8 +23,7 @@ nav-menu: true
 			<h2>New Events & Activities</h2>
 		</header>
 		<ol>
-			<li>国内ワークショップ(学生向け)<br>2024年11月27-29日 岩手生物工学研究所</li>
-			<!-- <li><a href="https://nlr-biology.github.io/Japan_workshop_2024">国内ワークショップ(学生向け)</a><br>2024年11月27-29日 岩手生物工学研究所</li> -->
+			<li><a href="https://nlr-biology.github.io/Japan_workshop_2024">国内ワークショップ(学生向け)</a><br>2024年11月27-29日 岩手生物工学研究所</li>
 		</ol>
 		<header class="major">
 			<h2>Past Events & Activities</h2>
