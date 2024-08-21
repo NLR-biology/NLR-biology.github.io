@@ -25,7 +25,8 @@ show_tile: false
 		<h3 id="content">・応募について</h3>
 		<p>参加希望者は、<a href="https://forms.gle/PJ2se4GArkHimywW6">こちらの応募フォーム</a>より、9/30までに応募してください。<br>
 		応募動機・研究内容の書類審査を経て10名程度選抜する予定です。<br>
-		応募に関するお問い合わせ等は nlr.biology@gmail.com へお願いします。</p>
+		なお本ワークショップは日本語で講演・実習を行いますが、それでも問題無ければ留学生等も応募可能です。<br>
+		その他、応募に関するお問い合わせ等は nlr.biology@gmail.com へお願いします。</p>
 		<h3 id="content">・告知ポスター</h3>
 		<span class="image fit"><img src="{% link assets/images/workshop_2024.jpg %}" alt="" /></span>
 	</div>
