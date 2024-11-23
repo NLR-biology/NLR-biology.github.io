@@ -29,6 +29,8 @@ show_tile: false
 		その他、応募に関するお問い合わせ等は nlr.biology@gmail.com へお願いします。</p>
 		<h3 id="content">・告知ポスター</h3>
 		<span class="image fit"><img src="{% link assets/images/workshop_2024.jpg %}" alt="" /></span>
+		<br>
+		<a href="https://nlr-biology.github.io/Japan_workshop_2024_lecture">実習ページはこちら</a>
 	</div>
 </section>
 </div>
