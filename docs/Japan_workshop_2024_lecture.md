@@ -19,8 +19,10 @@ show_tile: false
 		<!-- Content -->
 		<h3 id="content">◆ゲノムアセンブル</h3>
 		<p>初日に抽出し、二日目午前中にNanoporeシーケンサーで読んだロングリードのアセンブルを行います。</p>
-		<a href="https://colab.research.google.com/github/slt666666/NLR_biology_workshop_2024/blob/master/analysis/Genome_assemble.ipynb">アセンブル実行ページへ移動</a>
-		<br>
+		<ul>
+			<li><a href="https://colab.research.google.com/github/slt666666/NLR_biology_workshop_2024/blob/master/analysis/Genome_assemble.ipynb">アセンブル実行ページへ移動</a></li>
+			<li><a href="https://colab.research.google.com/github/slt666666/NLR_biology_workshop_2024/blob/master/analysis/Genome_assemble.ipynb">アセンブル実行ページへ移動</a></li>
+		</ul>
 		<br>
 		<h3 id="content">◆構造解析実習</h3>
 		<p>AlphaFold3, ChimeraXを使って、構造解析を行います。実習で使用するソフトウェアを下記のリンクから取得できます。</p>
