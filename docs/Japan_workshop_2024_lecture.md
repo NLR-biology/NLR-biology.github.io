@@ -38,7 +38,7 @@ show_tile: false
 		<ul>
 			<li>NLR及びAVRのアミノ酸配列のFastaファイル: <a href="https://raw.githubusercontent.com/CropEvol/lecture/master/data/Pik_AVR_pep.fasta">Pik_AVR_pep.fasta</a></li>
 			<li>AlphaFold3で予測した構造データファイル: <a href="https://raw.githubusercontent.com/CropEvol/lecture/master/data/AF3_Pikp1_AVRPikC.cif">AF3_Pikp1_AVRPikC.cif</a>, <a href="https://raw.githubusercontent.com/CropEvol/lecture/master/data/AF3_Pikp1_AVRPikD.cif">AF3_Pikp1_AVRPikD.cif</a><br>(※右クリックからリンク先を保存を選んでください。)</li>
-			<li>ChimeraXでの構造解析の見本例: <a href="https://raw.githubusercontent.com/CropEvol/lecture/master/data/Pikp1_AVR.cxs">Pikp1_AVR (.cxs)</a></li>
+			<li>ChimeraXでの構造解析の見本例: <a href="https://raw.githubusercontent.com/CropEvol/lecture/master/data/Pikp1_AVR.cxs">Pikp1_AVR.cxs</a></li>
 			<li><a href="https://raw.githubusercontent.com/CropEvol/lecture/master/data/241128_ChimeraXコマンド.pdf">ChimeraXのコマンド集</a></li>
 			<li><a href="https://raw.githubusercontent.com/CropEvol/lecture/master/data/241128_実習資料.pdf">AlphaFold3実習の資料</a></li>
 		</ul>
