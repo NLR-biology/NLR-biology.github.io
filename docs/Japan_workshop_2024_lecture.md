@@ -20,8 +20,8 @@ show_tile: false
 		<h3 id="content">◆ゲノムアセンブル</h3>
 		<p>初日に抽出し、二日目午前中にNanoporeシーケンサーで読んだロングリードのアセンブルを行います。</p>
 		<ul>
-			<li><a href="https://colab.research.google.com/github/slt666666/NLR_biology_workshop_2024/blob/master/analysis/Genome_assemble.ipynb">アセンブル実行ページへ移動</a></li>
-			<li><a href="https://colab.research.google.com/github/slt666666/NLR_biology_workshop_2024/blob/master/analysis/Genome_assemble.ipynb">アセンブル実行ページへ移動</a></li>
+			<li><a href="https://colab.research.google.com/github/slt666666/NLR_biology_workshop_2024/blob/master/analysis/Genome_assemble.ipynb">アセンブル実習ページへ移動</a></li>
+			<li><a href="https://colab.research.google.com/github/slt666666/NLR_biology_workshop_2024/blob/master/analysis/fasta_control.ipynb">FASTAファイルの操作実習ページへ移動</a></li>
 		</ul>
 		<br>
 		<h3 id="content">◆構造解析実習</h3>
