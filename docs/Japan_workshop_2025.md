@@ -27,6 +27,8 @@ show_tile: false
 		その他、応募に関するお問い合わせ等は ibrc-ws2025[at]ibrc.or.jp へお願いします。</p>
 		<h3 id="content">・告知ポスター</h3>
 		<span class="image fit"><img src="{% link assets/images/workshop_2025.jpg %}" alt="" /></span>
+		<br>
+		<a href="https://colab.research.google.com/github/slt666666/NLR_biology_workshop_2024/blob/master/analysis/GenomicPrediction.ipynb">実習ページへ移動</a>
 	</div>
 </section>
 </div>
