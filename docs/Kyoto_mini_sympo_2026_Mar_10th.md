@@ -21,6 +21,6 @@ show_tile: false
 	</div>
     <div class="inner">
         <h4>京都大学 講演会場(益川ホール)および懇親会会場(旧演習林事務室)の場所</h4>
-        <span class="image fit"><img src="{% link assets/images/masukawa_access.jpg %}" alt="" /></span>
+        <span class="image fit"><img src="{% link assets/images/masukawa.png %}" alt="" /></span>
 	</div>
 </section>
